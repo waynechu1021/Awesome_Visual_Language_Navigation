@@ -5,6 +5,7 @@
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome list badge"></a>
     <a href="bib/awesome_visual_language_navigation.bib"><img src="https://img.shields.io/badge/BibTeX-curated-8B5E3C?logo=bookstack&logoColor=white" alt="BibTeX"></a>
+    <a href="assets/VLN_surwey.pdf"><img src="https://img.shields.io/badge/Paper-survey-FF6F00?logo=adobeacrobatreader&logoColor=white" alt="Paper"></a>
 </p>
 
 ## 🌟 Overview
@@ -485,6 +486,7 @@ Representative outlook papers explicitly discussed in the manuscript are listed 
 | 2026 | **[Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation](https://arxiv.org/abs/2604.00265)** | 2026 arXiv | — |
 | 2026 | **[DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation](https://arxiv.org/abs/2604.12486)** | 2026 arXiv | — |
 | 2026 | **[MA-CoNav: A Master-Slave Multi-Agent Framework with Hierarchical Collaboration and Dual-Level Reflection for Long-Horizon Embodied VLN](https://arxiv.org/abs/2603.03024)** | 2026 arXiv   | —         |
+| 2026 | **[FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139)** | 2026 arXiv | — |
 | 2026 | **[CA-VLN: Collaborative Agents in MLLM-Powered Visual-Language Navigation](https://www.mdpi.com/1424-8220/26/4/1254)**                                                        | 2026 Sensors | —         |
 | 2025 | **[Enhancing Multi-Robot Semantic Navigation through Multimodal Chain-of-Thought Score Collaboration](https://arxiv.org/abs/2412.18292)**                                      | 2025 AAAI    | —         |
 | 2023 | **[Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models](https://arxiv.org/abs/2310.07937)**                                             | 2023 arXiv   | —         |
